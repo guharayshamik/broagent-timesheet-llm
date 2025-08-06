@@ -1,0 +1,12 @@
+# Secrets
+.env
+config/config.ini
+
+# Temp / Python
+__pycache__/
+*.pyc
+
+# Output files
+*.xlsx
+*.log
+
